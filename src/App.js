@@ -109,7 +109,7 @@ const App = () => {
         <div className="header-content">
           <div className="logo-container">
             <Car size={32} color="#2563eb" />
-            <h1 className="logo-text">EMG Automobiles</h1>
+            <h1 className="logo-text">EMG Automobiles </h1>
           </div>
           <button className="login-button" onClick={() => setShowLoginModal(true)}>
             <User size={20} />
